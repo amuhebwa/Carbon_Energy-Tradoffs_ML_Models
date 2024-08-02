@@ -1,0 +1,2 @@
+experiment_name,model_name,accuracy,auroc,mcc,f1,precision,recall,carbon_emissions
+EuroSAT,swinv2_small_patch4_window8_256,0.9857090509344082,,0.98409703758057,0.9857082190991507,0.985783004797475,0.9857090509344082,0.008626152348907937

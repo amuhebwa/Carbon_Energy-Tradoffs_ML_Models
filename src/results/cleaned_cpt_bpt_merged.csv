@@ -1,0 +1,16 @@
+experiment_name,model_id,Priority,cpt_utility,bpt_utility
+EuroSAT,deit,Balanced_Weights,0.3341254542457942,0.2335012417384126
+EuroSAT,deit,Accuracy_Focused,0.6879085611523684,0.4812347629827359
+EuroSAT,deit,Environment_Focused,0.1965431348932375,0.1371604279211757
+EuroSAT,deit,Energy_Efficiency_Priority,0.2948167686273272,0.2060282889138807
+EuroSAT,deit,Carbon_Emissions_Priority,0.2948156716628001,0.2059223009530947
+PublicHarvestNet,deit,Balanced_Weights,0.2802225354517242,0.2000240516034123
+PublicHarvestNet,deit,Accuracy_Focused,0.576933377955936,0.4124255358989351
+PublicHarvestNet,deit,Environment_Focused,0.1648349855889752,0.1174234743773756
+PublicHarvestNet,deit,Energy_Efficiency_Priority,0.2472554538910041,0.1764890809837435
+PublicHarvestNet,deit,Carbon_Emissions_Priority,0.2472538742337305,0.1763586923796316
+Kenya_Roads,deit,Balanced_Weights,0.2881902378698878,0.1567610564243602
+Kenya_Roads,deit,Accuracy_Focused,0.5933596186101296,0.3244006116448248
+Kenya_Roads,deit,Environment_Focused,0.1695132564709048,0.0915678960608461
+Kenya_Roads,deit,Energy_Efficiency_Priority,0.2542870980650645,0.1383111798975761
+Kenya_Roads,deit,Carbon_Emissions_Priority,0.2542779597324351,0.1379576984577075
